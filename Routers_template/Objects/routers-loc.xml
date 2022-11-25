@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/generic_routers_configuration.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 163" line=" 254" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 255" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 73" line=" 257" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 61" line=" 255" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 284" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 96" line=" 285" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 274" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 285" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 316" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 296" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 315" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 316" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 8" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 110" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 88" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 7" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 222" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 95" line=" 247" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 222" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 95" line=" 284" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 268" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 110" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/minimum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/exceptions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 110" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 314" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 53" line=" 304" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 223" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 228" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 53" line=" 304" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 223" >
+      <vfs_project />
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 316" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 316" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 311" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 314" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 366" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 5" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 8" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/usr/local/gnat/lib/gcc/x86_64-apple-darwin16.7.0/8.3.1/rts-native/adainclude/a-fwteio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/usr/local/gnat/lib/gcc/x86_64-apple-darwin16.7.0/8.3.1/rts-native/adainclude/a-lfteio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 20" >
+      <vfs_project />
+      <vfs_file>/usr/local/gnat/lib/gcc/x86_64-apple-darwin16.7.0/8.3.1/rts-native/adainclude/a-lfteio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/usr/local/gnat/lib/gcc/x86_64-apple-darwin16.7.0/8.3.1/rts-native/adainclude/a-tiflio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 317" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/generic_routers_configuration.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Router/generic_router.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/generic_routers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 366" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Router/generic_router.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 25" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Router/generic_router.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 60" line=" 25" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Framework/routers_configuration_structures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Router/generic_router.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 110" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_min.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/array_max.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 5" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 5" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 303" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 297" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 15" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Utilities/reduce.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/Router/generic_router.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/routers.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2020/Assignment_2/Routers_template/Sources/test_routers.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

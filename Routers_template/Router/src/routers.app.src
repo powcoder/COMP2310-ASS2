@@ -1,0 +1,5 @@
+{application, routers,
+ [{description, "COMP2310 routers test script"},
+  {vsn, "2020.1"},
+  {modules, [router, routers_framework, test_routers]},
+  {applications, [kernel, stdlib]}]}.
